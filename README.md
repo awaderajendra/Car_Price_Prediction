@@ -23,11 +23,50 @@ Jupyter notebook 📓
 4.Model Training
 5.Price Prediction
 
+# 🚀 Setup and Installation
+follows these steps to run this project locally on your system:
+
+1. Clone the repository:
+```bash
+git clone https://github.com
+```
+
+2. Navigate to the project directory:
+```bash
+cd Car_Price_Prediction
+
+3. Install all required dependencies:
+```bash
+pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+```
+
+4. Launch the jupyter notebook environment:
+```bash
+jupyter notebook
+```
+
+5. Open `Car_Price_Prediction.ipynb` and execute the cells sequentially.
+
+# 📁 Project Structure
+```text
+|-- cardekho_dataset.csv
+|--Car_Price_Prediction.ipynb
+|--README.md
+
 # 📁 Project File
 Car_Price_Prediction.ipynb
 
 # 🎯 Output
 The system predicts the estimated price of a car using input data.
+
+# 📉 Results
+Model used: **Linear Regression
+Accuracy score: 92%
+
+#💡Future Improvements (scope)
+Train other advanced models like Random Forest for better accuracy.
+Build an interactive Web User Interface using Streamlit.
+Deploy the application online Render or Heroku.
 
 # 👩‍💻Author
 Madhuri Dhawade
