@@ -8,7 +8,6 @@ Python 🐍
 Pandas 🐼
 Numpy 🔢
 Scikit-learn ⚙️
-Jupyter notebook 📓
 
 # 📊 Machine Learning Algorithm
 📉 Linear Regression
@@ -37,24 +36,16 @@ cd Car_Price_Prediction
 
 3. Install all required dependencies:
 ```bash
-pip install pandas numpy scikit-learn matplotlib seaborn jupyter
+pip install pandas numpy scikit-learn 
 ```
 
-4. Launch the jupyter notebook environment:
-```bash
-jupyter notebook
-```
-
-5. Open `Car_Price_Prediction.ipynb` and execute the cells sequentially.
+4. Open `Car_Price_Prediction.ipynb` and execute the cells sequentially.
 
 # 📁 Project Structure
 ```text
 |-- cardekho_dataset.csv
 |--Car_Price_Prediction.ipynb
 |--README.md
-
-# 📁 Project File
-Car_Price_Prediction.ipynb
 
 # 🎯 Output
 The system predicts the estimated price of a car using input data.
