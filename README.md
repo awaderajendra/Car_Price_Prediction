@@ -39,12 +39,12 @@ cd Car_Price_Prediction
 pip install pandas numpy scikit-learn 
 ```
 
-4. Open `Car_Price_Prediction.ipynb` and execute the cells sequentially.
+4. Open V S code
 
 # 📁 Project Structure
 ```text
 |-- cardekho_dataset.csv
-|--Car_Price_Prediction.ipynb
+|--car_price_prediction.py
 |--README.md
 
 # 🎯 Output
